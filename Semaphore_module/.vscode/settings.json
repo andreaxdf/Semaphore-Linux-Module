@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "scth.h": "c",
+        "module.h": "c",
+        "fs.h": "c",
+        "errno.h": "c"
+    }
+}
